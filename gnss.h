@@ -9,7 +9,7 @@
 #define GNSS_GNSS_H_
 
 #include "gnss_cfg.h"
-#include "minmea.h"
+#include "resources/minmea.h"
 
 typedef enum {
 	GNSS_OK, GNSS_PARAMETER_ERROR, GNSS_INTERNAL_ERROR, GNSS_RESULTNB

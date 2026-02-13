@@ -8,6 +8,6 @@
 #ifndef GNSS_GNSS_CFG_H_
 #define GNSS_GNSS_CFG_H_
 
-
+#define GNSSBufferSize 255
 
 #endif /* GNSS_GNSS_CFG_H_ */
